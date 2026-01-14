@@ -2,6 +2,12 @@
 
 Progressive Web App (PWA) para buscar películas utilizando The Movie Database (TMDB) API. Proyecto final para ISW-307 - Programación Móvil.
 
+## 🌐 Demo en Vivo
+
+**[🚀 Ver Aplicación en Vivo](https://p-oyarzo.github.io/ISW-307_Project/)**
+
+La aplicación está desplegada en GitHub Pages y lista para usar. Puedes probarla directamente desde tu navegador o instalarla como PWA en tu dispositivo móvil.
+
 ## 📋 Descripción
 
 CineGo es una aplicación web progresiva que permite:
