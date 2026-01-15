@@ -173,10 +173,13 @@ convert -size 512x512 xc:transparent -font Arial -pointsize 300 \
 - Verificar conexión a internet
 - Revisar consola para errores de CORS
 
-## 📝 Licencia
+## 👥 Autores
 
-Proyecto académico para ISW-307 - Universidad [Nombre]
+| Nombre | Matrícula | Rol |
+|--------|-----------|-----|
+| Oyarzo Perez, Pablo Antonio | 100067416 | Diseñador |
+| Corona Perez, Fulbio Abrahan | 100063008 | Coordinador |
+| Vargas Rodriguez, Anthoni | 100069167 | Investigador |
+| Matos Perez, Angel | 100055401 | Editor |
 
-## 👨‍💻 Autor
-
-[Tu Nombre] - ISW-307 Final Project
+**ISW-307 - Programación Móvil | Proyecto Final**
